@@ -50,7 +50,6 @@ This project explores the application of supervised machine learning to predict 
 ## 👨‍💻 Author
 **Askhat Manapov**  
 BSc Mechanical and Aerospace Engineering | Nazarbayev University  
-Capstone Project 2024–2025 | Applying ML in Metal Additive Manufacturing
 
 ---
 
